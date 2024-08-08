@@ -17,7 +17,7 @@ const OurMission = () => {
             animate={{ opacity: inView ? 1 : 0, x: inView ? 0 : -50 }}
             transition={{ duration: 1 }}
           >
-            <img className="W-[300px] md:w-[500px] position" src={Bannerimage} />
+            <img className="W-[300px] md:w-[500px] position" src={Bannerimage} alt='' />
           </motion.div>
           {/* Banner Text Info */}
           <motion.div

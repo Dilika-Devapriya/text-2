@@ -41,22 +41,22 @@ const Footer = () => {
                 <div>
                   <ul className="space-y-2">
                     <li>
-                      <a href="">HOME</a>
+                      HOME
                     </li>
                     <li>
-                      <a href="">ABOUT US</a>
+                      ABOUT US
                     </li>
                     <li>
-                      <a href="">DCP UPS</a>
+                      DCP UPS
                     </li>
                     <li>
-                      <a href="">DCP CCTV</a>
+                      DCP CCTV
                     </li>
                     <li>
-                      <a href="">BLOG</a>
+                      BLOG
                     </li>
                     <li>
-                      <a href="">CONTACT US</a>
+                      CONTACT US
                     </li>
                   </ul>
                 </div>
