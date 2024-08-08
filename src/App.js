@@ -7,6 +7,7 @@ import Cctv from "./Pages/Cctv";
 import Ups from "./Pages/DCPUPS";
 import ContactUs from "./Pages/Contactus";
 import PlacesRoute from "./Pages/PlacesRoute";
+
 // DCP CCTV
 import DCPB1200P from "./Pages/Detail/DCPB1200P";
 import DCPB1200M from "./Pages/Detail/DCPB1200M"
@@ -14,6 +15,7 @@ import DCPXVR2104S from "./Pages/Detail/DCPXVR2104S"
 import DCPXVR2100L from "./Pages/Detail/DCPXVR2100L"
 import DCPXVR216S from "./Pages/Detail/DCPXVR216S"
 import DCPXVR2116S from "./Pages/Detail/DCPXVR2116S"
+
 // DCP UPS
 import DCPVersion20 from "./Pages/Detail2/DCPVersion20"
 import DCPPOWERTOWER from "./Pages/Detail2/DCPPOWERTOWER"
