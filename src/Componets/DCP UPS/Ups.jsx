@@ -49,7 +49,7 @@ const initialUPScard = [
 
 const Ups = () => {
   const [selectedFilter, setSelectedFilter] = useState(null);
-  const [UPScard, setUPScard] = useState(initialUPScard);  // Manage UPScard as state
+  const [UPScard,] = useState(initialUPScard);  // Manage UPScard as state
   const [filteredItems, setFilteredItems] = useState(UPScard);
 
   const filters = ["Line Interactive", "Online(Single Phase)", "Online(Three Phase)", "Rack Mount UPS", "Mini Ups", "VRLA Batteries"];
