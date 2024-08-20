@@ -1,6 +1,6 @@
 import React from 'react';
 
-const UPSCard = ({ image, cname, description, onButtonClick }) => {
+const CCTVCard = ({ image, cname, description, onButtonClick }) => {
   return (
     <div className='card text-center group p-4 bg-white rounded-lg hover:shadow-md transition-shadow duration-300'>
       <div className='flex justify-center items-center mb-4'>
@@ -22,4 +22,4 @@ const UPSCard = ({ image, cname, description, onButtonClick }) => {
   );
 };
 
-export default UPSCard;
+export default CCTVCard;
